@@ -1,0 +1,85 @@
+body {
+  background-color: white;
+   
+}
+
+.header {
+    font-family: 'Great Vibes', cursive;
+    font-size: 4rem;
+    text-align: center;
+    color:silver;
+    top: 25px;
+    left: 350px;
+    background-color: transparent;
+    position: absolute;
+    
+}
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+   
+}
+.navy {
+    position: absolute;
+    top: 200px;
+    left: 125px;
+}
+.navy:hover {background-color: white;
+}
+.navy:active {
+  transform: translateY(4px);
+}
+.blue {
+    position: absolute;
+    top: 200px;
+    left: 325px;
+}
+.blue:hover {background-color: white;
+}
+.blue:active {
+  transform: translateY(4px);
+}
+.turq {
+    position: absolute;
+    top: 200px;
+    left: 525px;
+}
+.turq:hover {background-color: white;
+}
+.turq:active {
+  transform: translateY(4px);
+}
+.white {
+    position: absolute;
+    top: 200px;
+    left: 725px;
+}
+.white:hover {background-color: white;
+}
+.white:active {
+  transform: translateY(4px);
+}
+
+h2 {
+    
+    position: absolute;
+    top:400px;
+    left:100px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 2rem;
+    color:black;
+    
+
+}
+
+p {
+    font-family: 'Lovers Quarrel', cursive;    
+    font-size: 2.5rem;
+    color:navy;
+    position: absolute;
+    top: 600px;
+
+}
